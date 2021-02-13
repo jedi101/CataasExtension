@@ -1,6 +1,6 @@
 {
     "name" : "CataasExtension",
-    "description": "Replaces every image on website with cats, how lovely?",
+    "description": "Replaces every image on a website with cats, how lovely?",
     "version": "0.07",
     "manifest_version": 2,
     "permissions": [
