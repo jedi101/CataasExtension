@@ -1,0 +1,22 @@
+{
+    "name" : "CataasExtension",
+    "description": "Replaces every image on website with cats, how lovely?",
+    "version": "0.07",
+    "manifest_version": 2,
+    "permissions": [
+        "webRequest",
+        "webRequestBlocking",
+        "activeTab",
+        "tabs",
+        "<all_urls>"
+    ],
+    "background": {
+        "scripts": [
+            "background.js"
+        ],
+        "persistent": true
+    },
+    "icons": {
+		"128": "CataasIcon.png"
+	}
+}
