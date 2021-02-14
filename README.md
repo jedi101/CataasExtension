@@ -1,7 +1,8 @@
 # CataasExtension
 
 ### Description
-Replaces every image on a website with cats using the cataas.com API, how lovely?
+A browser extension that replaces every image on a website with cats using the
+cataas.com API, how lovely?
 
 ### Link to a demo (TODO)
 
