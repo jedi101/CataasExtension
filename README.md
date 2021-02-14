@@ -5,10 +5,10 @@ A browser extension that replaces every image on a website with cats using the
 cataas.com API, how lovely?
 
 ### Link to a demo (TODO)
-![alt text](https://raw.githubusercontent.com/jedi101/CataasExtension/master/documentation/Screenshot2.png?raw=true)
+![alt text](https://raw.githubusercontent.com/jedi101/CataasExtension/master/documentation/Screenshot2.png)
 
 ### Getting Started (TODO)
-  * Step 1 -> Instantiation steps
+  * Step 1 -> Installation steps
   * Step 2 -> Configuration
   
 ### Working with source files (for people who want to use the uncompressed code)
