@@ -3,8 +3,8 @@
  * @return {Number} containing a randomly choosen font size
  */
 function randomSize() {
-    min = Math.ceil(24);
-    max = Math.floor(42);
+    let min = Math.ceil(24);
+    let max = Math.floor(42);
 
     return Math.floor(Math.random() * (max - min + 1)) + min;
 }
@@ -36,7 +36,7 @@ function randomLength() {
  * @return {String} of the randomly picked value
  */
 function coinFlip(coin) {
-    var index = Math.floor(Math.random() * coin.length);
+    let index = Math.floor(Math.random() * coin.length);
 
     return coin[index];
 }
@@ -46,7 +46,7 @@ function coinFlip(coin) {
  * @return {String} containing the random created text
  */
 function randomMiau() {
-    // StringArrays containing our alphabet to choose from
+    // StringArrays containing our miaulphabet to choose from
     let miCoin = ["m", "i"];
     let auCoin = ["a", "u", "U"];
     let word = "M";
