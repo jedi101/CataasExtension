@@ -14,7 +14,7 @@ cataas.com API, how lovely?
 ### Working with source files (for people who want to use the uncompressed code)
 (TODO)
 
-### Options and Settings (since my plugins are usually configurable)
+### Options and Settings
 (TODO)
 
 ### Browser Compatibility
