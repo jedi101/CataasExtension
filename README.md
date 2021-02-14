@@ -8,11 +8,8 @@ cataas.com API, how lovely?
 ![alt text](https://raw.githubusercontent.com/jedi101/CataasExtension/master/documentation/Screenshot2.png)
 
 ### Getting Started (TODO)
-  * Step 1 -> Installation steps
+  * Step 1 -> Installation
   * Step 2 -> Configuration
-  
-### Working with source files (for people who want to use the uncompressed code)
-(TODO)
 
 ### Options and Settings
 (TODO)
